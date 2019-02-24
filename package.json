@@ -1,0 +1,17 @@
+{
+  "name": "milestone_1",
+  "version": "1.0.0",
+  "description": "Three functions to demonstrate I/O, data structure, control flow",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^6.2.2",
+    "nodemon": "^1.18.10",
+    "npm": "^6.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
