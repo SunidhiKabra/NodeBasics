@@ -4,6 +4,7 @@
   "description": "Three functions to demonstrate I/O, data structure, control flow",
   "main": "index.js",
   "dependencies": {
+    "hashmap": "^2.3.0",
     "inquirer": "^6.2.2",
     "nodemon": "^1.18.10",
     "npm": "^6.8.0"
